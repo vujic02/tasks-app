@@ -67,10 +67,4 @@ export default {
 </script>
 
 <style scoped>
-.roboto {
-  font-family: 'Roboto', sans-serif;
-}
-.red-hat {
-  font-family: 'Red Hat Display', sans-serif;
-}
 </style>
