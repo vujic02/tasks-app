@@ -6,14 +6,14 @@
         Tasks App
       </h2>
       <div class="flex flex-col">
-        <a href="#" class="flex w-full items-center my-4">
+        <router-link to="/overview" class="flex w-full items-center my-4">
           <img src="../assets/image1.png">
           <h3
             class="font-medium text-xl ml-4 hidden sm:block roboto"
           >
             Overview
           </h3>
-        </a>
+        </router-link>
         <a href="#" class="flex w-full items-center my-4">
           <img src="../assets/image2.png">
           <h3
